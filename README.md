@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alrdwa
-- 👀 I’m interested in Software 
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on a great project
+- 👀 I’m Developer & Linux Homelab Enthusiast 
+- 🌱 I’m Full-Stack Developer & Language Specialist
+- 💞️ I’m Crafting mobile experiences with Flutter and backend scripts with Python. Passionate about self-hosting, automation, and the future of AI.
 - 📫 How to reach me : Egypt +02 01122526119
 
 <!---
